@@ -1,0 +1,4 @@
+#!/bin/bash
+
+chown ubuntu usr/share/nginx/html
+chmod 777 usr/share/nginx/html/mohit.gupta
